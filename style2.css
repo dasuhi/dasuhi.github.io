@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(145, 134, 124);
+}
+#nav {
+    background-color: rgba(31, 31, 31, 0.39);
+}
+#jumb {
+    background-color: rgba(31, 31, 31, 0.39);
+}
+#learnmore {
+    margin-top: 3rem;
+    
+}
+#profile {
+    margin-top: 7rem;
+    margin-left: 10rem;
+}
